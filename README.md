@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Muhammad Osama Rizwan</h1>
 
 <p align="center">
-  💻 Full Stack JavaScript Development with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP Integration
+  💻 Full Stack JavaScript Developer with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP
 </p>
 <p align="center">
   🚀 Top Rated Freelancer on <strong>Upwork</strong> | 🌟 Level Two Seller on <strong>Fiverr</strong>  
@@ -19,29 +19,18 @@
 
 ## 💼 About Me
 
-I'm a passionate and results-driven **Full Stack Developer** with **5+ years** of hands-on experience in crafting modern, scalable, and high-performance web applications using **React.js**, **Next.js**, and **Node.js**.
-
-🔹 I specialize in building:
-- Multi-role dashboards  
-- Real-time applications  
-- Booking systems  
-- Admin panels  
-- And much more...
-
-I take pride in writing clean, efficient, and maintainable code while delivering seamless user experiences and robust backend logic.
+With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, Shopify Development, and Acumatica ERP, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
 
 ## 🚀 Featured Projects
 
 ### ⚡ Skorboard
-> A **real-time socket-based** multi-league sports app for a US-based client.  
-> It covers **MLB, NHL, NFL, NCAAF, CBK, and NBA**, managing live data streams with performance in mind.
+> One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 ### 🏏 The PSL Info
-> A comprehensive cricket platform for **Pakistan Super League**, developed with full frontend/backend architecture and live data integration.
+> A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
-### 💼 Clients & Companies
-Worked with amazing teams and clients at:
-> **Styre Technologies**, **BitsPro**, **Machotics**, **Jumppace**, **Kahoo Digitals**, **Same Soft**, **Verifiable Letter**, **Leafgistics**, **Panoptesan**, **Washapp**, and more.
+### 💼 Other Projects
+> I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
 
 ## 💡 Tech Stack & Skills
 
@@ -77,14 +66,6 @@ Sports APIs: `MLB` · `NHL` · `NFL` · `NCAAF` · `CBK` · `NBA`
 ✅ Figma / PSD to HTML or React/Next.js  
 ✅ API Integration & RESTful Services  
 ✅ Bug Fixing, Optimization & Refactoring
-
-## 🎯 Why Work With Me?
-
-✨ Proven record of client satisfaction  
-✨ Deep understanding of modern web technologies  
-✨ Clean, scalable, and well-documented code  
-✨ On-time delivery and responsive communication  
-✨ Flexible, long-term collaboration mindset
 
 ## 📬 Let’s Connect
 
