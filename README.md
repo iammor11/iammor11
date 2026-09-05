@@ -9,9 +9,7 @@
 <p align="center">
   Software Engineer Graduate
 </p>
-<p align="center">
   [Portfolio](https://mor-portfolio.firebaseapp.com/)
-</p>
 <p align="center">
   Whatsapp: +923200206211 | Email: osamarizwan444@gmail.com
 </p>
