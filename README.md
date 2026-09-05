@@ -1,10 +1,16 @@
 <h1 align="center">👋 Hi, I'm Muhammad Osama Rizwan</h1>
 
 <p align="center">
-  🚀 Top Rated Freelancer on <strong>Upwork</strong> | 🌟 Level One Seller on <strong>Fiverr</strong>  
+  💻 Full Stack JavaScript Development with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP Integration
 </p>
 <p align="center">
-  💻 Full Stack Developer (MERN & PERN) | 🎓 Software Engineer Graduate | 🌍 Based in Karachi, Pakistan
+  🚀 Top Rated Freelancer on <strong>Upwork</strong> | 🌟 Level Two Seller on <strong>Fiverr</strong>  
+</p>
+<p align="center">
+   🎓 Software Engineer Graduate
+</p>
+<p align="center">
+  🌍 Based in Karachi, Pakistan
 </p>
 
 ## 🔗 Portfolio
