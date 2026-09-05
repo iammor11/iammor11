@@ -18,11 +18,11 @@
 
 ## About Me
 
-With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, **Shopify Development**, and **Acumatica ERP**, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
+> With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, **Shopify Development**, and **Acumatica ERP**, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
 
 ## Projects
 
-### 🔹 Skorboard
+> ### 🔹 Skorboard
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 ### 🔹 The PSL Info
@@ -58,13 +58,21 @@ Sports APIs: `MLB` · `NHL` · `NFL` · `NCAAF` · `CBK` · `NBA`
 
 ## Services I Offer
 
-🔹 Full Stack Development (MERN / PERN)  
-🔹 Admin & Multi-role Dashboards  
-🔹 Real-time Web Apps with Socket.io  
-🔹 Frontend / Backend Architecture  
-🔹 Figma / PSD to HTML or React/Next.js  
-🔹 API Integration & RESTful Services  
-🔹 Bug Fixing, Optimization & Refactoring
+🔹 Full Stack Development (MERN/PERN Stack)
+🔹 Acumatica ERP Customization and Integration
+🔹 Shopify Website Development and Customization
+🔹 Shopify Theme Development, Store Setup, API Integrations, and Third-Party App Integrations
+🔹 Real-Time Web Applications (SocketIO)
+🔹 Software as a Service (SaaS) Development
+🔹 Admin Panels and Multi-Role Dashboard Development (RBAC)
+🔹 E-Commerce Website Development
+🔹 API Development and Integration
+🔹 Backend / Server Development using Node.js, NestJS or Supabase
+🔹 Converting PSD / Figma designs to Pixel-Perfect HTML / CSS or React / Next.js
+🔹 Add Functionality, Feature, Enhance, Performance Optimization and Bug Fixing
+🔹 Payment Gateway Integration (Stripe, DragonPay) with Webhooks
+🔹 AI-Powered Web Application Development using Claude, Replit, Lovable and similar platforms
+🔹 Scheduled tasks and automated background processes using Cron Jobs
 
 ## Let’s Connect
 
