@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Osama Rizwan</h1>
 
 <p align="center">
-   Full Stack JavaScript Developer with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP
+   Full Stack JavaScript Developer with TypeScript, specializing in React, Next.js, Node.js, NestJS, Shopify Development, and Acumatica ERP
 </p>
 <p align="center">
    Top Rated Freelancer on <strong>Upwork</strong> | Level Two Seller on <strong>Fiverr</strong>  
@@ -16,19 +16,19 @@
   <a href="https://mor-portfolio.firebaseapp.com/">Portfolio</a>
 </p>
 
-## 💼 About Me
+## About Me
 
 With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, **Shopify Development**, and **Acumatica ERP**, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
 
-## 🚀 Featured Projects
+## Projects
 
-### ⚡ Skorboard
+### 🔹 Skorboard
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
-### 🏏 The PSL Info
+### 🔹 The PSL Info
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
-### 💼 Other Projects
+### 🔹 Other Projects
 > I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
 
 ## 💡 Tech Stack & Skills
