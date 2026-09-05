@@ -1,25 +1,24 @@
-<h1 align="center">👋 Hi, I'm Muhammad Osama Rizwan</h1>
+<h1 align="center">Muhammad Osama Rizwan</h1>
 
 <p align="center">
-  💻 Full Stack JavaScript Developer with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP
+   Full Stack JavaScript Developer with TypeScript, specializing in React, NextJS, NodeJS, NestJS, Shopify Development, and Acumatica ERP
 </p>
 <p align="center">
-  🚀 Top Rated Freelancer on <strong>Upwork</strong> | 🌟 Level Two Seller on <strong>Fiverr</strong>  
+   Top Rated Freelancer on <strong>Upwork</strong> | Level Two Seller on <strong>Fiverr</strong>  
 </p>
 <p align="center">
-   🎓 Software Engineer Graduate
+  Software Engineer Graduate
 </p>
 <p align="center">
-  🌍 Based in Karachi, Pakistan
+  [Portfolio](https://mor-portfolio.firebaseapp.com/)
 </p>
-
-## 🔗 Portfolio
-
-📌 Check out my work here → [Portfolio](https://mor-portfolio.firebaseapp.com/)
+<p align="center">
+  Whatsapp: +923200206211 | Email: osamarizwan444@gmail.com
+</p>
 
 ## 💼 About Me
 
-With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, Shopify Development, and Acumatica ERP, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
+With **6 years** of experience in **Full Stack JavaScript Development** with TypeScript, specializing in **React**, **Next.js**, **Node.js**, **NestJS**, **Shopify Development**, and **Acumatica ERP**, a **Software Engineer Graduate** in 2020, I have worked across various client projects and product teams, and delivered scalable web applications, SaaS platforms, e-commerce solutions, dashboards, ERP integrations, and AI-powered solutions.
 
 ## 🚀 Featured Projects
 
