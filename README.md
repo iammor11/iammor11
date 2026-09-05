@@ -31,49 +31,45 @@ With **6 years** of experience in **Full Stack JavaScript Development** with Typ
 ### 🔹 Other Projects
 > I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
 
-## 💡 Tech Stack & Skills
+## Tech Stack & Skills
 
-### 🌐 Frontend
+### 🔹 Frontend
 `React.js` · `Next.js` · `TypeScript` · `Redux` · `JavaScript`  
 `Tailwind CSS` · `Material UI` · `Bootstrap` · `Ant Design` · `HTML5` · `CSS3`
 
-### ⚙️ Backend
+### 🔹 Backend
 `Node.js` · `Express.js` · `REST APIs` · `Socket.io`  
 `Prisma` · `Mongoose` · `Sequelize` · `TypeORM`  
 `JWT Auth` · `Swagger`
 
-### 🛢️ Databases
+### 🔹 Databases
 `MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
 
-### ☁️ Cloud & DevOps
+### 🔹 Cloud & DevOps
 `AWS S3` · `AWS Lambda` · `AWS SES`
 
-### 🔗 Third-Party & External APIs
+### 🔹 Third-Party & External APIs
 `Stripe` · `Google` · `Facebook` · `Instagram`  
 Sports APIs: `MLB` · `NHL` · `NFL` · `NCAAF` · `CBK` · `NBA`  
 `DragonPay`
 
-### 🧰 Tools & Utilities
+### 🔹 Tools & Utilities
 `Git` · `Npm` · `Postman` · `Vercel` · `Netlify`
 
-## 🛠️ Services I Offer
+## Services I Offer
 
-✅ Full Stack Development (MERN / PERN)  
-✅ Admin & Multi-role Dashboards  
-✅ Real-time Web Apps with Socket.io  
-✅ Frontend / Backend Architecture  
-✅ Figma / PSD to HTML or React/Next.js  
-✅ API Integration & RESTful Services  
-✅ Bug Fixing, Optimization & Refactoring
+🔹 Full Stack Development (MERN / PERN)  
+🔹 Admin & Multi-role Dashboards  
+🔹 Real-time Web Apps with Socket.io  
+🔹 Frontend / Backend Architecture  
+🔹 Figma / PSD to HTML or React/Next.js  
+🔹 API Integration & RESTful Services  
+🔹 Bug Fixing, Optimization & Refactoring
 
-## 📬 Let’s Connect
+## Let’s Connect
 
-Have a project or idea that matches my skills? I’d love to hear from you!
-
-📧 Email: *[osamarizwan444@gmail.com]*  
-🌐 Portfolio: [Portfolio](https://mor-portfolio.firebaseapp.com)  
+If you need a reliable developer who can handle both frontend and backend development, I would be happy to discuss your project.
 
 <p align="center">
-  <b>Thank you for visiting! 🌟</b><br/>
-  <i>"Let’s build something awesome together!"</i>
+  <b>Grace you!</b><br/>
 </p>
