@@ -23,19 +23,18 @@
 ## Projects
 
 > ### 🔹 Skorboard
-One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
+> One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
-### 🔹 The PSL Info
+> ### 🔹 The PSL Info
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
-### 🔹 Other Projects
+> ### 🔹 Other Projects
 > I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
 
-## Tech Stack & Skills
+## Skills
 
-### 🔹 Frontend
-`React.js` · `Next.js` · `TypeScript` · `Redux` · `JavaScript`  
-`Tailwind CSS` · `Material UI` · `Bootstrap` · `Ant Design` · `HTML5` · `CSS3`
+> ### 🔹 Frontend
+> HTML5, CSS3, React · Next.js, JavaScript, TypeScript, Redux, Zustand, Bootstrap, Material UI, Ant Design, and Tailwind CSS.
 
 ### 🔹 Backend
 `Node.js` · `Express.js` · `REST APIs` · `Socket.io`  
