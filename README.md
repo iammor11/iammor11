@@ -23,7 +23,7 @@
 ## Projects
 
 > ### 🔹 Skorboard
-> One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
+One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 ### 🔹 The PSL Info
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
