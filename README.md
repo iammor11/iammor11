@@ -22,21 +22,24 @@
 
 ## Projects
 
-> ### 🔹 Skorboard <a href="https://www.fantronics.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
-> Live URL: [↗️](https://hammerloop.com/)  
+> ### 🔹 Skorboard  
+> Live URL: [↗️](https://www.fantronics.com/)  
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
-> ### 🔹 Hammerloop 
+> ### 🔹 Hammerloop  
 > Live URL: [↗️](https://hammerloop.com/)  
 > I built a web app in NextJS for both workers and employers, with a NodeJS backend and PostgreSQL database. It is a job platform that connects workers and employers across construction and other blue-collar trade industries.
 
-> ### 🔹 Big League Construction Supply and Fastening Specialists  <a href="https://bigleaguecs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
+> ### 🔹 Big League Construction Supply and Fastening Specialists
+> Live URL: [↗️](https://bigleaguecs.com/)  
 > I developed a custom Node.js integration server for two USA based construction and distribution companies, integrating Acumatica ERP with Track-POD using APIs and webhooks. Automated delivery order creation and real-time synchronization of delivery confirmations, driver comments, signatures, and proof-of-delivery images, reducing manual work and improving delivery visibility.
  
-> ### 🔹 The PSL Info <a href="https://www.thepslinfo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
+> ### 🔹 The PSL Info  
+> Live URL: [↗️](https://www.thepslinfo.com)   
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
-> ### 🔹 NED International Alumni of North America <a href="https://www.nedian-na.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
+> ### 🔹 NED International Alumni of North America  
+> Live URL: [↗️](https://www.nedian-na.org/)   
 > I translated a Figma design into a pixel-perfect, fully responsive site in NextJS with dynamic content fetched from JSON files stored in AWS S3.
 
 > ### 🔹 Other Projects
