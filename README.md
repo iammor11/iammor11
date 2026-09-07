@@ -45,28 +45,28 @@
 > ### 🔹 Frontend
 > HTML5, CSS3, React · Next.js, JavaScript, TypeScript, Redux, Zustand, Bootstrap, Material UI, Ant Design, and Tailwind CSS.
 
-### 🔹 Backend
+> ### 🔹 Backend
 > Node.js, Express.js, Restful APIs, Socket.io, Firebase, Supabase, AWS Services, Redis, MySQL, PostgreSQL, MongoDB, Sequelize, Mongoose, Prisma, Drizzle, TypeORM, Swagger, Stripe and DragonPay.
 
-### 🔹 Payment Gateways
+> ### 🔹 Payment Gateways
 > Stripe, DragonPay and its webhooks
 
-### 🔹 Testing: 
+> ### 🔹 Testing: 
 > Jest, Mocha for unit testing
 
-### 🔹 AI Development Platforms and Tools:
+> ### 🔹 AI Development Platforms and Tools:
 > Replit, Lovable, Cursor, ChatGPT, Claude, GitHub Copilot etc
 
-### 🔹 E-commerce Platforms (Shopify):
+> ### 🔹 E-commerce Platforms (Shopify):
 > Store Development, Theme Customization, Shopify REST API Integration, Third-Party App Integrations, Webhooks, and E-commerce workflow automation
 
-### 🔹 ERP Integrations (Acumatica ERP):
+> ### 🔹 ERP Integrations (Acumatica ERP):
 > API integrations, Data Synchronization, Business Workflow Automation, and Integration of Customer, Product, Inventory, and Order Management Systems
 
-### 🔹 Third-Party APIs: 
+> ### 🔹 Third-Party APIs: 
 > OpenAI, Claude, Deepseek, Shopify REST API, Acumatica ERP, TrackPOD, Meta APIs, Google, Slack, Stats API, etc.
 
-### 🔹 Others: 
+> ### 🔹 Others: 
 > Npm, Yarn, Git, GitLab, GitHub, Slack, Agile, Microservices, Webhooks, Vercel, OAuth, JSON, Postman, Vite, Ffmpeg, Cron Jobs, Data Feed, etc.
 
 ## Services I Offer
