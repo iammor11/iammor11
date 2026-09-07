@@ -71,21 +71,21 @@
 
 ## Services I Offer
 
-🔹 Full Stack Development (MERN/PERN Stack)
-🔹 Acumatica ERP Customization and Integration
-🔹 Shopify Website Development and Customization
-🔹 Shopify Theme Development, Store Setup, API Integrations, and Third-Party App Integrations
-🔹 Real-Time Web Applications (SocketIO)
-🔹 Software as a Service (SaaS) Development
-🔹 Admin Panels and Multi-Role Dashboard Development (RBAC)
-🔹 E-Commerce Website Development
-🔹 API Development and Integration
-🔹 Backend / Server Development using Node.js, NestJS or Supabase
-🔹 Converting PSD / Figma designs to Pixel-Perfect HTML / CSS or React / Next.js
-🔹 Add Functionality, Feature, Enhance, Performance Optimization and Bug Fixing
-🔹 Payment Gateway Integration (Stripe, DragonPay) with Webhooks
-🔹 AI-Powered Web Application Development using Claude, Replit, Lovable and similar platforms
-🔹 Scheduled tasks and automated background processes using Cron Jobs
+> 🔹 Full Stack Development (MERN/PERN Stack)
+> 🔹 Acumatica ERP Customization and Integration
+> 🔹 Shopify Website Development and Customization
+> 🔹 Shopify Theme Development, Store Setup, API Integrations, and Third-Party App Integrations
+> 🔹 Real-Time Web Applications (SocketIO)
+> 🔹 Software as a Service (SaaS) Development
+> 🔹 Admin Panels and Multi-Role Dashboard Development (RBAC)
+> 🔹 E-Commerce Website Development
+> 🔹 API Development and Integration
+> 🔹 Backend / Server Development using Node.js, NestJS or Supabase
+> 🔹 Converting PSD / Figma designs to Pixel-Perfect HTML / CSS or React / Next.js
+> 🔹 Add Functionality, Feature, Enhance, Performance Optimization and Bug Fixing
+> 🔹 Payment Gateway Integration (Stripe, DragonPay) with Webhooks
+> 🔹 AI-Powered Web Application Development using Claude, Replit, Lovable and similar platforms
+> 🔹 Scheduled tasks and automated background processes using Cron Jobs
 
 ## Let’s Connect
 
