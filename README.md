@@ -25,8 +25,17 @@
 > ### 🔹 Skorboard
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
+> ### 🔹 Hammerloop
+> I built a web app in NextJS for both workers and employers, with a NodeJS backend and PostgreSQL database. It is a job platform that connects workers and employers across construction and other blue-collar trade industries.
+
+> ### 🔹 Big League Construction Supply and Fastening Specialists
+> I developed a custom Node.js integration server for two USA based construction and distribution companies, integrating Acumatica ERP with Track-POD using APIs and webhooks. Automated delivery order creation and real-time synchronization of delivery confirmations, driver comments, signatures, and proof-of-delivery images, reducing manual work and improving delivery visibility.
+ 
 > ### 🔹 The PSL Info
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
+
+> ### 🔹 NED International Alumni of North America
+> I translated a Figma design into a pixel-perfect, fully responsive site in NextJS with dynamic content fetched from JSON files stored in AWS S3.
 
 > ### 🔹 Other Projects
 > I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
@@ -37,23 +46,28 @@
 > HTML5, CSS3, React · Next.js, JavaScript, TypeScript, Redux, Zustand, Bootstrap, Material UI, Ant Design, and Tailwind CSS.
 
 ### 🔹 Backend
-`Node.js` · `Express.js` · `REST APIs` · `Socket.io`  
-`Prisma` · `Mongoose` · `Sequelize` · `TypeORM`  
-`JWT Auth` · `Swagger`
+> Node.js, Express.js, Restful APIs, Socket.io, Firebase, Supabase, AWS Services, Redis, MySQL, PostgreSQL, MongoDB, Sequelize, Mongoose, Prisma, Drizzle, TypeORM, Swagger, Stripe and DragonPay.
 
-### 🔹 Databases
-`MongoDB` · `PostgreSQL` · `MySQL` · `Firebase`
+### 🔹 Payment Gateways
+> Stripe, DragonPay and its webhooks
 
-### 🔹 Cloud & DevOps
-`AWS S3` · `AWS Lambda` · `AWS SES`
+### 🔹 Testing: 
+> Jest, Mocha for unit testing
 
-### 🔹 Third-Party & External APIs
-`Stripe` · `Google` · `Facebook` · `Instagram`  
-Sports APIs: `MLB` · `NHL` · `NFL` · `NCAAF` · `CBK` · `NBA`  
-`DragonPay`
+### 🔹 AI Development Platforms and Tools:
+> Replit, Lovable, Cursor, ChatGPT, Claude, GitHub Copilot etc
 
-### 🔹 Tools & Utilities
-`Git` · `Npm` · `Postman` · `Vercel` · `Netlify`
+### 🔹 E-commerce Platforms (Shopify):
+> Store Development, Theme Customization, Shopify REST API Integration, Third-Party App Integrations, Webhooks, and E-commerce workflow automation
+
+### 🔹 ERP Integrations (Acumatica ERP):
+> API integrations, Data Synchronization, Business Workflow Automation, and Integration of Customer, Product, Inventory, and Order Management Systems
+
+### 🔹 Third-Party APIs: 
+> OpenAI, Claude, Deepseek, Shopify REST API, Acumatica ERP, TrackPOD, Meta APIs, Google, Slack, Stats API, etc.
+
+### 🔹 Others: 
+> Npm, Yarn, Git, GitLab, GitHub, Slack, Agile, Microservices, Webhooks, Vercel, OAuth, JSON, Postman, Vite, Ffmpeg, Cron Jobs, Data Feed, etc.
 
 ## Services I Offer
 
