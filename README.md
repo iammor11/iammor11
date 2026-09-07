@@ -33,17 +33,13 @@
 > ### 🔹 Big League Construction Supply and Fastening Specialists
 > Live URL: [↗️](https://bigleaguecs.com/)  
 > I developed a custom Node.js integration server for two USA based construction and distribution companies, integrating Acumatica ERP with Track-POD using APIs and webhooks. Automated delivery order creation and real-time synchronization of delivery confirmations, driver comments, signatures, and proof-of-delivery images, reducing manual work and improving delivery visibility.
- 
-> ### 🔹 The PSL Info  
-> Live URL: [↗️](https://www.thepslinfo.com)   
-> A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
 > ### 🔹 NED International Alumni of North America  
 > Live URL: [↗️](https://www.nedian-na.org/)   
 > I translated a Figma design into a pixel-perfect, fully responsive site in NextJS with dynamic content fetched from JSON files stored in AWS S3.
 
 > ### 🔹 Other Projects
-> I have also worked on projects including Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
+> I have also worked on projects including The PSL Info (Cricket Website), Verifiable Letter (Online Letterhead), Leafgistics (Logistics Company), Panoptesan (Driver Management App), Washapp (Laundry Partner), FictionGenie (Multilingual Storybooks for Kids), GetContentAI (Create AI-based Content Creation) and many more individual web apps.
 
 ## Skills
 
