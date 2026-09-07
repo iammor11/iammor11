@@ -13,7 +13,7 @@
   Whatsapp: +923200206211 | Email: osamarizwan444@gmail.com
 </p>
 <p align="center">
-  <a href="https://mor-portfolio.firebaseapp.com/">Portfolio</a>
+    My Portfolio Link: <a href="https://mor-portfolio.firebaseapp.com/" target="_blank" style="text-decoration: none;">↗️</a>
 </p>
 
 ## About Me
@@ -22,19 +22,19 @@
 
 ## Projects
 
-> ### 🔹 Skorboard <a href="https://hammerloop.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
+> ### 🔹 Skorboard <a href="(https://www.fantronics.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 > ### 🔹 Hammerloop <a href="https://hammerloop.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
 > I built a web app in NextJS for both workers and employers, with a NodeJS backend and PostgreSQL database. It is a job platform that connects workers and employers across construction and other blue-collar trade industries.
 
-> ### 🔹 Big League Construction Supply and Fastening Specialists
+> ### 🔹 Big League Construction Supply and Fastening Specialists  <a href="https://bigleaguecs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
 > I developed a custom Node.js integration server for two USA based construction and distribution companies, integrating Acumatica ERP with Track-POD using APIs and webhooks. Automated delivery order creation and real-time synchronization of delivery confirmations, driver comments, signatures, and proof-of-delivery images, reducing manual work and improving delivery visibility.
  
-> ### 🔹 The PSL Info
+> ### 🔹 The PSL Info <a href="https://www.thepslinfo.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
 > A real-time cricket site for the **Pakistan Super League** with live scores, player stats, and standings, built with Next.js and Node.js.
 
-> ### 🔹 NED International Alumni of North America
+> ### 🔹 NED International Alumni of North America <a href="https://www.nedian-na.org/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
 > I translated a Figma design into a pixel-perfect, fully responsive site in NextJS with dynamic content fetched from JSON files stored in AWS S3.
 
 > ### 🔹 Other Projects
