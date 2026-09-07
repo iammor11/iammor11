@@ -23,9 +23,11 @@
 ## Projects
 
 > ### 🔹 Skorboard <a href="https://www.fantronics.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
+> Live URL: [↗️](https://hammerloop.com/)
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
-> ### 🔹 Hammerloop [↗️](https://hammerloop.com/)
+> ### 🔹 Hammerloop
+> Live URL: [↗️](https://hammerloop.com/)
 > I built a web app in NextJS for both workers and employers, with a NodeJS backend and PostgreSQL database. It is a job platform that connects workers and employers across construction and other blue-collar trade industries.
 
 > ### 🔹 Big League Construction Supply and Fastening Specialists  <a href="https://bigleaguecs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
