@@ -26,7 +26,7 @@
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 > ### 🔹 Hammerloop
-> Live Website: <a href="https://hammerloop.com/" target="_blank" rel="noopener noreferrer">https://hammerloop.com/</a>
+> Link: <a href="https://hammerloop.com/" target="_blank" rel="noopener noreferrer">🔗</a>
 > I built a web app in NextJS for both workers and employers, with a NodeJS backend and PostgreSQL database. It is a job platform that connects workers and employers across construction and other blue-collar trade industries.
 
 > ### 🔹 Big League Construction Supply and Fastening Specialists
