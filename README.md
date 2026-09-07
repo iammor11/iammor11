@@ -23,7 +23,7 @@
 ## Projects
 
 > ### 🔹 Skorboard <a href="https://www.fantronics.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">↗️</a>
-> Live URL: [↗️](https://hammerloop.com/)
+> Live URL: [↗️](https://hammerloop.com/)  
 > One of my notable projects includes developing a real-time, multi-league, socket-based web app for a US client. This application provides live updates for **MLB, NHL, NFL, NCAAF, CBK, and NBA league** matches, showcasing my ability to handle high-traffic and real-time data processing, including team and player stats, schedules, favorites and account management.
 
 > ### 🔹 Hammerloop
