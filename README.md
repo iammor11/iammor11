@@ -13,7 +13,7 @@
   Whatsapp: +923200206211 | Email: osamarizwan444@gmail.com
 </p>
 <p align="center">
-    My Portfolio Link: <a href="https://mor-portfolio.firebaseapp.com/" target="_blank" style="text-decoration: none;">↗️</a>
+    My Portfolio Link: <a href="https://osamarizwan.vercel.app/" target="_blank" style="text-decoration: none;">↗️</a>
 </p>
 
 ## About Me
